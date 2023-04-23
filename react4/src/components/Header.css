@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(33, 37, 41);
+    color: white;
+}
+.menu{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.brand{
+    font-size: 36px;
+}
+.header_button{
+    color: green;
+}

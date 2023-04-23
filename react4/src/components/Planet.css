@@ -1,0 +1,101 @@
+.planet{
+    background-color: rgb(48, 48, 48);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    overflow: auto;
+}
+.planet_picture{
+    background-image: url('./planet.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    float: left;
+}
+.planet_information{
+    background: none;
+    color: white;
+    font-size: 24px;
+    float: left;
+    margin-left: 30px;
+}
+.planet_data{
+    background:none;
+    list-style-type: none;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.planet_data_item{
+    background:none;
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.list{
+    background-color: rgb(48, 48, 48);
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.list_item{
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: rgb(97, 100, 102);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+}
+.person_details{
+    margin-top: 100px;
+}
+.person_picture0{
+    background-image: url('./Luke Skywalker.jpg');
+    width: 125px;
+}
+.person_picture1{
+    background-image: url('./C-3PO.jpg');
+    width: 125px;
+}
+.person_picture2{
+    background-image: url('./R2-D2.jpg');
+    width: 125px;
+}
+.person_picture3{
+    background-image: url('./Darth Vader.jpg');
+    width: 125px;
+}
+.person_picture4{
+    background-image: url('./Leia Organa.jpg');
+    width: 125px;
+}
+.person_picture5{
+    background-image: url('./Owen Lars.jpg');
+    width: 125px;
+}
+.person_picture6{
+    background-image: url('./Beru Whitesun lars.jpg');
+    width: 125px;
+}
+.person_picture7{
+    background-image: url('./R5-D4.jpg');
+    width: 125px;
+}
+.person_picture8{
+    background-image: url('./Biggs Darklighter.jpg');
+    width: 125px;
+}
+.person_picture9{
+    background-image: url('./Obi-Wan Kenobi.jpg');
+    width: 125px;
+}
+.starship_picture{
+    background-image: url('./Starship.jpg');
+}
